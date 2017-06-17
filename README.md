@@ -56,5 +56,3 @@ CMS管理系统
 	具体参考LICENSE.txt内容
 	
 ## 小助手微信 **xunshang100**  备注  [   **CMS**   ]	
-
-开发案例: https://91364949.qcloud.la/
