@@ -56,6 +56,6 @@ TP3.x - RBAC管理系统
 	具体参考LICENSE.txt内容
 	
 
-## array(thinkphp5.x RBAC  => github.com/chenbei360/tp5)
+## TP5.x RBAC  => github.com/chenbei360/tp5
 
 #### 官方QQ群：192979528 小助手微信 **xunshang100**
