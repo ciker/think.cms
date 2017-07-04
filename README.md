@@ -1,4 +1,4 @@
-CMS管理系统
+RBAC管理系统
 ======
 
 [ 介绍 ]
@@ -55,4 +55,7 @@ CMS管理系统
     本系统除ThinkPHP框架外，遵循MIT开源许可协议发布
 	具体参考LICENSE.txt内容
 	
-## 小助手微信 **xunshang100**  备注  [   **CMS**   ]	
+
+## thinkphp5.x RBAC  => https://github.com/chenbei360/tp5
+
+#### 小助手微信 **xunshang100**  备注  [   **RBAC**   ]	
