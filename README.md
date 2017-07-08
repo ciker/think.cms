@@ -54,7 +54,3 @@ TP3.x - RBAC管理系统
 
     本系统除ThinkPHP框架外，遵循MIT开源许可协议发布
 	具体参考LICENSE.txt内容
-	
-
-## (TP5.x RBAC)  [https://github.com/chenbei360/tp5.git] 后期会推出 LV.x RBAC YII.x RBAC
-#### 官方QQ群：192979528 小助手微信 **xunshang100**
